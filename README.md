@@ -1,0 +1,2 @@
+# ServerFanController
+通过nvml获取显卡温度后操作IPMICFG控制风扇转速
